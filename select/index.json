@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Freaking Cute",
+  "base_artist": "BEAST",
+  "createdAt": "2026-02-06T08:05:15.536298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Freaking Cute",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/01_Freaking_Cute_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Freaking Cute",
+      "artist": "비스트(Beast)",
+      "has_synced": true,
+      "path": "select/02_Freaking_Cute_비스트(Beast).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Freaking Cute",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/pl_01_Freaking_Cute_BEAST.txt"
+    }
+  ]
+}
